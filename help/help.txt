@@ -1,0 +1,15 @@
+Bonjour et bienvenue dans le manuel d'aide de "L'odre des Cacahuètes Félines",
+Tu trouveras ici toutes les touches ou commandes dont tu auras besoin :
+(N'oublies surtout pas d'appuyer sur la touche "Entrée" pour chaque touche.)
+
+Mouvement :
+
+z : Monter
+q : Aller a droite
+s : Descendre
+d : Aller a gauche
+
+Touches d'interaction : 
+
+i : Ouvrir l'inventaire
+p : Menu de pause
