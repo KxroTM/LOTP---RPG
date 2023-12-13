@@ -11,9 +11,11 @@ Assurez-vous d'avoir Go installé sur votre machine avant de procéder à l'inst
    git clone https://github.com/KxroTM/T2OTFP-RPG
 
 2. **Accédez au répertoire du projet :**
-    ```cd T2OTFP-RPG
+    ```bash
+    cd T2OTFP-RPG
 3. **Exécutez le jeu :**
-    ```go run main.go
+    ```bash
+    go run main.go
 
 
 ## Objectif du Jeu
