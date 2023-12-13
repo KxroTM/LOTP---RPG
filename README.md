@@ -17,7 +17,6 @@ Assurez-vous d'avoir Go installé sur votre machine avant de procéder à l'inst
     ```bash
     go run main.go
 
-
 ## Objectif du Jeu
 
 Votre mission, si vous l'acceptez, est de vaincre quatre boss dispersés à travers le monde du jeu avant de vous aventurer vers le boss final. Les boss sont puissants et nécessitent une stratégie intelligente pour être vaincus. Soyez prêt à affronter des ennemis coriaces, à collecter des objets magiques et à renforcer votre personnage tout au long de votre aventure.
